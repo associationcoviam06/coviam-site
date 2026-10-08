@@ -1,0 +1,2 @@
+const burger=document.getElementById("burger"),menu=document.getElementById("menu");
+if(burger&&menu){burger.addEventListener("click",()=>{const open=menu.classList.toggle("open");burger.setAttribute("aria-expanded",String(open));burger.textContent=open?"×":"☰";});menu.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>{menu.classList.remove("open");burger.setAttribute("aria-expanded","false");burger.textContent="☰";}));}
