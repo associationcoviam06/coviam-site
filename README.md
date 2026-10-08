@@ -19,3 +19,7 @@ Le bouton DON mène vers une page d'attente tant que le COVIAM n'a pas communiqu
 
 ## Identité administrative
 RNA W062000351 · SIREN 794 089 789 · SIRET 794 089 789 00018 · APE 9499Z
+
+
+## E-mail de référence
+06coviam@gmail.com
