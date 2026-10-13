@@ -10,7 +10,7 @@ Site statique indépendant de WordPress.
 - Onglet DON prêt à recevoir le lien officiel de collecte
 
 ## Informations de permanences utilisées
-- Cannes – La Bocca : 2e et 4e mercredis, 16h30–19h, 07 57 48 44 01
+- Cannes – La Bocca : 2e et 4e mercredis, 16h30–19h, 07 57 48 56 18
 - Grasse : 1er et 3e mardis, 18h–20h, 06 16 14 53 56
 - Nice : mercredis, 15h30–18h, sans rendez-vous, 23 rue Paganini
 
