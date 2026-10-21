@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">COVIAM — Comité de Vigilance des Alpes-Maritimes</title>
+<desc id="desc">Logo COVIAM avec baie bleue, littoral fleuri et nom de l'association.</desc>
+<defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#b8eff5"/><stop offset=".55" stop-color="#48b8df"/><stop offset="1" stop-color="#168dbd"/></linearGradient>
+ <linearGradient id="land" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e56b"/><stop offset=".5" stop-color="#9bc45a"/><stop offset="1" stop-color="#438d48"/></linearGradient>
+ <clipPath id="bay"><path d="M55 145 Q100 65 270 80 Q400 25 540 85 Q660 118 790 70 Q970 20 1135 95 L1160 230 Q1070 290 930 260 Q770 235 640 295 Q470 340 315 280 Q150 330 50 245Z"/></clipPath>
+ <filter id="soft"><feGaussianBlur stdDeviation="1.5"/></filter>
+</defs>
+<rect width="1200" height="430" fill="#fff" fill-opacity="0"/>
+<g clip-path="url(#bay)">
+ <rect x="30" y="20" width="1140" height="330" fill="url(#sea)"/>
+ <path d="M20 125 Q180 60 330 96 T620 93 T880 75 T1180 115" fill="none" stroke="#e8ffff" stroke-width="18" opacity=".45"/>
+ <path d="M10 175 Q170 130 310 155 T570 145 T850 135 T1190 160" fill="none" stroke="#a6ecf3" stroke-width="13" opacity=".55"/>
+ <path d="M500 55 Q670 85 755 135 Q845 185 930 180 Q1030 170 1180 95 L1200 10 L500 10Z" fill="url(#land)"/>
+ <path d="M520 105 Q650 112 750 150 Q850 185 960 173 Q1070 155 1180 90" fill="none" stroke="#fff4c7" stroke-width="18" opacity=".95"/>
+ <g fill="#fff4d7" stroke="#e4a878" stroke-width="3">
+  <path d="M790 103 l38 -9 20 12 -2 24 -39 8 -17 -12Z"/><path d="M866 77 l35 -8 18 11 -1 22 -38 8 -15 -12Z"/><path d="M943 66 l34 -5 18 11 -2 22 -34 8 -16 -11Z"/><path d="M1022 55 l32 -3 18 12 -1 20 -35 6 -15 -11Z"/><path d="M1090 78 l31 -5 16 12 -1 20 -34 6 -13 -11Z"/>
+ </g>
+ <g fill="#e8b2d8" opacity=".95">
+  <circle cx="110" cy="245" r="17"/><circle cx="135" cy="265" r="20"/><circle cx="170" cy="250" r="19"/><circle cx="204" cy="278" r="16"/><circle cx="244" cy="260" r="20"/><circle cx="279" cy="280" r="17"/><circle cx="318" cy="265" r="20"/><circle cx="355" cy="285" r="17"/><circle cx="392" cy="270" r="20"/><circle cx="430" cy="287" r="17"/><circle cx="475" cy="270" r="18"/><circle cx="520" cy="286" r="20"/><circle cx="560" cy="273" r="17"/><circle cx="600" cy="288" r="18"/><circle cx="644" cy="271" r="17"/><circle cx="685" cy="286" r="20"/><circle cx="727" cy="268" r="17"/><circle cx="767" cy="282" r="19"/><circle cx="810" cy="267" r="17"/><circle cx="850" cy="278" r="20"/><circle cx="894" cy="260" r="17"/><circle cx="938" cy="271" r="19"/><circle cx="980" cy="250" r="18"/><circle cx="1020" cy="261" r="18"/><circle cx="1060" cy="239" r="16"/>
+ </g>
+ <g fill="#f5d75c" opacity=".95">
+  <circle cx="92" cy="277" r="12"/><circle cx="220" cy="295" r="12"/><circle cx="340" cy="300" r="11"/><circle cx="455" cy="298" r="12"/><circle cx="585" cy="306" r="12"/><circle cx="710" cy="300" r="12"/><circle cx="830" cy="294" r="11"/><circle cx="965" cy="284" r="12"/><circle cx="1090" cy="258" r="12"/>
+ </g>
+</g>
+<path d="M55 145 Q100 65 270 80 Q400 25 540 85 Q660 118 790 70 Q970 20 1135 95 L1160 230 Q1070 290 930 260 Q770 235 640 295 Q470 340 315 280 Q150 330 50 245Z" fill="none" stroke="#c7f5ef" stroke-width="8" opacity=".8"/>
+<text x="600" y="218" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold" font-size="145" letter-spacing="5" fill="#111">COVIAM</text>
+<text x="600" y="385" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="36" letter-spacing="-1" fill="#49651c">Comité de Vigilance des Alpes-Maritimes</text>
+</svg>
